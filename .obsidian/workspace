@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "8906ddc8a398397e",
+    "type": "split",
+    "children": [
+      {
+        "id": "150c96e654332300",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "职业技能/游戏开发/UE4笔记/UE4委托.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cadb42c111065bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb8939f3a6755c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e999db19ce7516bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5d62d5503630217",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "实习",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c20f302ef71eaf07",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c7d78ca5967122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbe4597ca0dad091",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "职业技能/游戏开发/UE4笔记/UE4委托.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4b57782f52e3904",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "de6043a7d391a0c4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "active": "a5d62d5503630217",
+  "lastOpenFiles": [
+    "职业技能/游戏开发/UE4笔记/蓝图解析.md",
+    "专业积累/编程语言/c++/语义分析/变量语义.md",
+    "考试/面向对象/C++.md",
+    "日常积累/插件/UE4 AI.md",
+    "日常积累/插件/Gameplay Ability System.md",
+    "日常积累/插件/插件资源.md",
+    "求职/大纲.md",
+    "职业技能/UnLua/集成Protobuf.md",
+    "职业技能/游戏开发/UE4笔记/UE4动画.md",
+    "日常积累/工具/Blender/Blender教程.md"
+  ]
+}

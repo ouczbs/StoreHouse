@@ -1,0 +1,1868 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "日常积累/资源收集/计算机资源.md": {
+      "size": 37,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/资源收集/书籍资源.md": {
+      "size": 544,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/插件/Gameplay Ability System.md": {
+      "size": 1808,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/插件/插件资源.md": {
+      "size": 110,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/插件/UE4插件.md": {
+      "size": 267,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/插件/UE4 AI.md": {
+      "size": 394,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/插件/Logic Driver Lite.md": {
+      "size": 1,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/插件/Advanced Locomotion System.md": {
+      "size": 2680,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/工具/Typora.md": {
+      "size": 1995,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/工具/npm install.md": {
+      "size": 126,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/工具/Github.md": {
+      "size": 187,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/工具/Blender/Blender教程.md": {
+      "size": 875,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/工具/Blender/Blender2UE.md": {
+      "size": 1152,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/名词缩写.md": {
+      "size": 32,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/Kanbans/阅读 Kanban.md": {
+      "size": 219,
+      "tags": 0,
+      "links": 0
+    },
+    "日常积累/Kanbans/事件Kanban.md": {
+      "size": 145,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/人工智能/AI.md": {
+      "size": 275,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏核心框架.md": {
+      "size": 4718,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/游戏开发.md": {
+      "size": 195,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/游戏引擎/[UE4]性能优化指南(程序向).md": {
+      "size": 60,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/游戏引擎/UE4项目结构.md": {
+      "size": 1741,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/游戏引擎/UE4 编译模块.md": {
+      "size": 723,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/游戏引擎/UE4 日志.md": {
+      "size": 298,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/游戏光照.md": {
+      "size": 402,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/ZSystem/ZSystem.md": {
+      "size": 127,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UMG 设计.md": {
+      "size": 638,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/recastnavigation.md": {
+      "size": 506,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4面向对象.md": {
+      "size": 2639,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4 配置.md": {
+      "size": 2589,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/蓝图解析.md": {
+      "size": 9380,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/编辑器开发.md": {
+      "size": 14549,
+      "tags": 0,
+      "links": 1
+    },
+    "职业技能/游戏开发/UE4笔记/UE4源码编译.md": {
+      "size": 859,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/游戏导航.md": {
+      "size": 2243,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4说明符.md": {
+      "size": 2213,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4委托.md": {
+      "size": 3410,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4类图.md": {
+      "size": 677,
+      "tags": 0,
+      "links": 21
+    },
+    "职业技能/游戏开发/UE4笔记/UE4容器.md": {
+      "size": 1723,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4智能指针.md": {
+      "size": 4568,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4反射.md": {
+      "size": 27665,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/Slate 架构.md": {
+      "size": 8908,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4动画.md": {
+      "size": 27316,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4关系图.md": {
+      "size": 777,
+      "tags": 0,
+      "links": 13
+    },
+    "职业技能/游戏开发/UE4笔记/UE4 行为树.md": {
+      "size": 1408,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4 输入.md": {
+      "size": 1403,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4 资源.md": {
+      "size": 1658,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4 移动组件.md": {
+      "size": 1367,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4 移动模块.md": {
+      "size": 2729,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4 生命周期.md": {
+      "size": 8335,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/UE4 字符串.md": {
+      "size": 692,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/SubSystem.md": {
+      "size": 594,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/Sequence.md": {
+      "size": 4108,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/游戏开发/UE4笔记/GC垃圾回收.md": {
+      "size": 117,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/字符编码.md": {
+      "size": 2786,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/动画/材质.md": {
+      "size": 15050,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/动画/MMD文件.md": {
+      "size": 10644,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/动画/MMD.md": {
+      "size": 574,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UnLua/集成Protobuf.md": {
+      "size": 757,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UnLua/Unlua.md": {
+      "size": 3550,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UnLua/Luapanda调试.md": {
+      "size": 3327,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/uclass/UScriptStruct.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/uclass/UStruct.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/uclass/UFunction.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/uclass/UField.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/uclass/UProperty.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/uclass/UEnum.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/uclass/UClass.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/UE4.md": {
+      "size": 241,
+      "tags": 0,
+      "links": 3
+    },
+    "职业技能/UE4/class/UEditorEngine.md": {
+      "size": 1297,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/UGameInstance.md": {
+      "size": 2146,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/UEngine.md": {
+      "size": 819,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/UWorld.md": {
+      "size": 2640,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/UObject.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/UnrealEngine.md": {
+      "size": 79,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/ULocalPlayer.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/ULevel.md": {
+      "size": 903,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/UGameEngine.md": {
+      "size": 312,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/FViewportClient.md": {
+      "size": 12311,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/Luanch.md": {
+      "size": 680,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/FEngineLoop.md": {
+      "size": 431,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/UActorComponent.md": {
+      "size": 71,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/UActor.md": {
+      "size": 119,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/IEngineLoop.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/FWorldContext.md": {
+      "size": 466,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/APlayerState.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/APawn.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/AGameState.md": {
+      "size": 55,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/AGameMode.md": {
+      "size": 336,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/UE4/class/AController.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "书籍笔记/恋爱/第二章：成为顶级伴侣.md": {
+      "size": 783,
+      "tags": 0,
+      "links": 0
+    },
+    "书籍笔记/恋爱/第一章：吸引的悖论.md": {
+      "size": 3141,
+      "tags": 0,
+      "links": 0
+    },
+    "书籍笔记/恋爱/例子/鼓励分享，避免成为话题杀手.md": {
+      "size": 8194,
+      "tags": 0,
+      "links": 0
+    },
+    "书籍笔记/阅读方法.md": {
+      "size": 745,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/算法/leetcode.md": {
+      "size": 4213,
+      "tags": 0,
+      "links": 1
+    },
+    "专业积累/算法/算法.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/算法/排序算法/排序算法.md": {
+      "size": 844,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/工具语法/CMake.md": {
+      "size": 2163,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/工具语法/压缩.md": {
+      "size": 863,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/工具语法/vim.md": {
+      "size": 138,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/操作系统/CPU 高速缓存.md": {
+      "size": 389,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/设计模式.md": {
+      "size": 2702,
+      "tags": 2,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/语义分析/类型系统.md": {
+      "size": 1184,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/语义分析/变量语义.md": {
+      "size": 1439,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/语义分析/OOP.md": {
+      "size": 1365,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/语义分析/性能分析.md": {
+      "size": 1111,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/面向对象.md": {
+      "size": 1107,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/编程习惯/VS编辑器.md": {
+      "size": 188,
+      "tags": 1,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/编程习惯/命名规范.md": {
+      "size": 638,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/函数模板.md": {
+      "size": 189,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/函数传参.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/优化指南/内存分配.md": {
+      "size": 307,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/优化指南/优化字符串.md": {
+      "size": 654,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/c++/c++性能测试.md": {
+      "size": 288,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/Python/Python.md": {
+      "size": 251,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/Python/Pypi.md": {
+      "size": 1974,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/Python/miniconda.md": {
+      "size": 434,
+      "tags": 0,
+      "links": 1
+    },
+    "专业积累/编程语言/Python/jupyter.md": {
+      "size": 690,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/环境搭建/虚拟内存.md": {
+      "size": 762,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/环境搭建/Node.md": {
+      "size": 591,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/环境搭建/环境搭建.md": {
+      "size": 2457,
+      "tags": 1,
+      "links": 0
+    },
+    "专业积累/环境搭建/linux hostname.md": {
+      "size": 505,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/数学知识/矩阵变换.md": {
+      "size": 1606,
+      "tags": 0,
+      "links": 0
+    },
+    "Readme.md": {
+      "size": 184,
+      "tags": 0,
+      "links": 0
+    },
+    "Obsidian.md": {
+      "size": 514,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220425.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220423.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220426.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220502.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220424.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220419.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220410.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220412.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220422.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220420.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220317.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220418.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220417.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220413.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220411.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220406.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220403.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220323.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220324.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220402.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220325.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220322.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220321.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220319.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220320.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220318.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220309.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220314.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220316.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220301.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220315.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220312.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220310.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220228.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220307.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220308.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220303.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220304.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220107.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220302.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220219.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220227.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211212.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220221.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211210.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220109.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220108.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211127.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211214.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211126.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211211.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211203.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211209.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211208.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211207.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211206.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211205.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211204.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211110.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211202.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211201.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211130.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211123.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211124.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211125.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211122.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211116.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211026.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211118.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211115.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211114.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211111.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211113.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211112.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211031.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211107.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211109.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211108.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211105.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211106.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211025.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211103.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211101.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211029.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211030.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211017.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211028.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211023.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211024.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211016.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211014.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211018.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211007.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211015.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211013.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211012.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211011.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211009.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211010.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211008.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211002.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211001.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211006.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211005.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211004.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20211003.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210927.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210930.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210929.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210928.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210926.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210925.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210922.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210923.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210917.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210921.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210918.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210916.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20210915.md": {
+      "size": 158,
+      "tags": 0,
+      "links": 1
+    },
+    "Day Planners/Day Planner-20220503.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220504.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220509.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220511.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220512.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220513.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220515.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220523.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220524.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编译原理/lex.md": {
+      "size": 5937,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编译原理/yacc.md": {
+      "size": 4825,
+      "tags": 1,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220525.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220527.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220529.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220603.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/大物/大学物理.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220604.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220605.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220606.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220607.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220608.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220609.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/面向对象/C++.md": {
+      "size": 10285,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220610.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/编译原理.md": {
+      "size": 3504,
+      "tags": 0,
+      "links": 1
+    },
+    "Day Planners/Day Planner-20220611.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220612.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220613.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220614.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/大英/背诵.md": {
+      "size": 3437,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/大英/未命名.md": {
+      "size": 3437,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220615.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/数据库.md": {
+      "size": 20943,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/数据库作业.md": {
+      "size": 40943,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220616.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220617.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220618.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220621.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/大物/框图.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 17
+    },
+    "Day Planners/Day Planner-20220622.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220623.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220624.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/人工智能/寻路.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "专业积累/编程语言/Python/matplotlib.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220627.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/大英 1/实习报告.md": {
+      "size": 3774,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/大英 1/实习证明.md": {
+      "size": 569,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/大英 1/未命名.md": {
+      "size": 7827,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/设计/开题模板.md": {
+      "size": 4894,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/设计/开题报告.md": {
+      "size": 7548,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/设计/编译原理.md": {
+      "size": 3277,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/毕业设计.md": {
+      "size": 4130,
+      "tags": 0,
+      "links": 0
+    },
+    "考试/答辩.md": {
+      "size": 3619,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220628.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "求职/准备.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "求职/英语.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220629.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220630.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "项目/OWS/Docker.md": {
+      "size": 3633,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/vpn.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220701.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "求职/刷题.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220702.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220703.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220704.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220705.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220706.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "求职/大纲.md": {
+      "size": 4593,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220707.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220708.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220710.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "职业技能/图像/颜色.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220711.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220712.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220713.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220714.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220720.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Excalidraw/Drawing 2022-07-20 09.10.02.excalidraw.md": {
+      "size": 208307,
+      "tags": 1,
+      "links": 0
+    },
+    "Excalidraw/Drawing 2022-07-20 09.37.02.excalidraw.md": {
+      "size": 272631,
+      "tags": 1,
+      "links": 0
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 56,
+      "Create": 77,
+      "Link": 18,
+      "Expand": 87
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 27,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 15,
+      "9": 21,
+      "10": 27,
+      "11": 16,
+      "12": 13,
+      "13": 15,
+      "14": 19,
+      "15": 11,
+      "16": 17,
+      "17": 5,
+      "18": 7,
+      "19": 8,
+      "20": 6,
+      "21": 10,
+      "22": 12,
+      "23": 8
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 23,
+      "Tue": 51,
+      "Wed": 63,
+      "Thu": 31,
+      "Fri": 50,
+      "Sat": 0,
+      "Sun": 20
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-07-20 09.37.02.excalidraw.md\"> Drawing 2022-07-20 09.37.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-07-20 09.10.02.excalidraw.md\"> Drawing 2022-07-20 09.10.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-07-20 09.10.02.excalidraw.md\"> Drawing 2022-07-20 09.10.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/动画/材质.md\"> 材质 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"项目/OWS/Docker.md\"> Docker </a>",
+        "<a class=\"internal-link\" href=\"项目/OWS/Docker.md\"> Docker </a>",
+        "<a class=\"internal-link\" href=\"项目/OWS/Docker.md\"> Docker </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/数据库.md\"> 数据库 </a>",
+        "<a class=\"internal-link\" href=\"大英/实习报告.md\"> 实习报告 </a>",
+        "<a class=\"internal-link\" href=\"大英/实习报告.md\"> 实习报告 </a>",
+        "<a class=\"internal-link\" href=\"日常积累/考试/毕业设计.md\"> 毕业设计 </a>",
+        "<a class=\"internal-link\" href=\"日常积累/考试/答辩.md\"> 答辩 </a>",
+        "<a class=\"internal-link\" href=\"日常积累/考试/答辩.md\"> 答辩 </a>",
+        "<a class=\"internal-link\" href=\"日常积累/考试/答辩.md\"> 答辩 </a>",
+        "<a class=\"internal-link\" href=\"日常积累/考试/答辩.md\"> 答辩 </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/lex.md\"> lex </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/lex.md\"> lex </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/lex.md\"> lex </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/yacc.md\"> yacc </a>",
+        "<a class=\"internal-link\" href=\"考试/面向对象/C++.md\"> C++ </a>",
+        "<a class=\"internal-link\" href=\"考试/面向对象/C++.md\"> C++ </a>",
+        "<a class=\"internal-link\" href=\"考试/面向对象/C++.md\"> C++ </a>",
+        "<a class=\"internal-link\" href=\"考试/面向对象/C++.md\"> C++ </a>"
+      ],
+      "Created": [
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-07-20 09.37.02.excalidraw.md\"> Drawing 2022-07-20 09.37.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-07-20 09.10.02.excalidraw.md\"> Drawing 2022-07-20 09.10.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220720.md\"> Day Planner-20220720 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220714.md\"> Day Planner-20220714 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220713.md\"> Day Planner-20220713 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220712.md\"> Day Planner-20220712 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220711.md\"> Day Planner-20220711 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/图像/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220710.md\"> Day Planner-20220710 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220708.md\"> Day Planner-20220708 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220707.md\"> Day Planner-20220707 </a>",
+        "<a class=\"internal-link\" href=\"求职/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220706.md\"> Day Planner-20220706 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220705.md\"> Day Planner-20220705 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220704.md\"> Day Planner-20220704 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220703.md\"> Day Planner-20220703 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220702.md\"> Day Planner-20220702 </a>",
+        "<a class=\"internal-link\" href=\"未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220701.md\"> Day Planner-20220701 </a>",
+        "<a class=\"internal-link\" href=\"求职/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"项目/OWS/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220630.md\"> Day Planner-20220630 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220629.md\"> Day Planner-20220629 </a>",
+        "<a class=\"internal-link\" href=\"求职/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"求职/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220628.md\"> Day Planner-20220628 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220503.md\"> Day Planner-20220503 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220504.md\"> Day Planner-20220504 </a>",
+        "<a class=\"internal-link\" href=\"大英/实习证明.md\"> 实习证明 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220509.md\"> Day Planner-20220509 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220511.md\"> Day Planner-20220511 </a>",
+        "<a class=\"internal-link\" href=\"日常积累/考试/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"毕设/图片/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220512.md\"> Day Planner-20220512 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220513.md\"> Day Planner-20220513 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220515.md\"> Day Planner-20220515 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220523.md\"> Day Planner-20220523 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220524.md\"> Day Planner-20220524 </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220525.md\"> Day Planner-20220525 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220527.md\"> Day Planner-20220527 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220529.md\"> Day Planner-20220529 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220603.md\"> Day Planner-20220603 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220604.md\"> Day Planner-20220604 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220605.md\"> Day Planner-20220605 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220606.md\"> Day Planner-20220606 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220607.md\"> Day Planner-20220607 </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"日常积累/考试/答辩.md\"> 答辩 </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/lex.md\"> lex </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/yacc.md\"> yacc </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/1. 质点运动学.md\"> 1. 质点运动学 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/第九章 振动.md\"> 第九章 振动 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/第一章 质点运动学.md\"> 第一章 质点运动学 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/1 质点运动学.md\"> 1 质点运动学 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/9. 振动.md\"> 9. 振动 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/1. 质点运动学.md\"> 1. 质点运动学 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/10. 机械波.md\"> 10. 机械波 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/大学物理.md\"> 大学物理 </a>",
+        "<a class=\"internal-link\" href=\"考试/面向对象/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"考试/面向对象/C++.md\"> C++ </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/大英/背诵.md\"> 背诵 </a>",
+        "<a class=\"internal-link\" href=\"考试/数据库.md\"> 数据库 </a>",
+        "<a class=\"internal-link\" href=\"考试/数据库作业.md\"> 数据库作业 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/人工智能/寻路.md\"> 寻路 </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编程语言/Python/Matplotlib.md\"> Matplotlib </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编程语言/Python/matplotlib.md\"> matplotlib </a>",
+        "<a class=\"internal-link\" href=\"考试/大英 1/实习报告.md\"> 实习报告 </a>",
+        "<a class=\"internal-link\" href=\"考试/大英 1/实习证明.md\"> 实习证明 </a>",
+        "<a class=\"internal-link\" href=\"考试/大英 1/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"考试/设计/开题模板.md\"> 开题模板 </a>",
+        "<a class=\"internal-link\" href=\"考试/设计/开题报告.md\"> 开题报告 </a>",
+        "<a class=\"internal-link\" href=\"考试/设计/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"考试/毕业设计.md\"> 毕业设计 </a>",
+        "<a class=\"internal-link\" href=\"考试/答辩.md\"> 答辩 </a>",
+        "<a class=\"internal-link\" href=\"求职/刷题.md\"> 刷题 </a>",
+        "<a class=\"internal-link\" href=\"求职/求职.md\"> 求职 </a>",
+        "<a class=\"internal-link\" href=\"求职/准备.md\"> 准备 </a>",
+        "<a class=\"internal-link\" href=\"求职/英语.md\"> 英语 </a>",
+        "<a class=\"internal-link\" href=\"项目/OWS/Docker.md\"> Docker </a>",
+        "<a class=\"internal-link\" href=\"求职/vpn.md\"> vpn </a>",
+        "<a class=\"internal-link\" href=\"专业积累/vpn.md\"> vpn </a>",
+        "<a class=\"internal-link\" href=\"职业技能/vpn.md\"> vpn </a>",
+        "<a class=\"internal-link\" href=\"求职/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"求职/刷题.md\"> 刷题 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/图像/颜色.md\"> 颜色 </a>"
+      ],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/yacc.md\"> yacc </a>",
+        "<a class=\"internal-link\" href=\"考试/数据库.md\"> 数据库 </a>",
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-07-20 09.10.02.excalidraw.md\"> Drawing 2022-07-20 09.10.02.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-07-20 09.37.02.excalidraw.md\"> Drawing 2022-07-20 09.37.02.excalidraw </a>"
+      ],
+      "Refactored": [
+        "<a class=\"internal-link\" href=\"日常积累/考试/设计/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"专业积累/编译原理/yacc.md\"> yacc </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
+        "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>"
+      ],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"大英/大英四.md\"> 大英四 </a>",
+        "<a class=\"internal-link\" href=\"未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"未命名 1.md\"> 未命名 1 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/9. 振动.md\"> 9. 振动 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/10. 机械波.md\"> 10. 机械波 </a>",
+        "<a class=\"internal-link\" href=\"毕设/图片/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"毕设/图片/未命名.md\"> 未命名 </a>"
+      ],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"毕设/图片/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"毕设/图片/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/大物/框图.md\"> 框图 </a>",
+        "<a class=\"internal-link\" href=\"考试/编译原理.md\"> 编译原理 </a>",
+        "<a class=\"internal-link\" href=\"毕设/图片/未命名.md\"> 未命名 </a>"
+      ],
+      "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"考试/数据库.md\"> 数据库 </a>"
+      ],
+      "Removed Links from": [
+        "<a class=\"internal-link\" href=\"毕设/图片/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"职业技能/游戏开发/UE4笔记/UE4 输入.md\"> UE4 输入 </a>"
+      ]
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}
