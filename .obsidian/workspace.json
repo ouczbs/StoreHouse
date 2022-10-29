@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "39278dd7f972085b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "职业发展/游戏开发/Luanch.md",
-            "mode": "source",
-            "source": false
+        "id": "77c67d18cccf6d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0a2536d04de86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "职业工作/冰风网络/Lua 原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mdt",
+                "query": "Lua",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "职业发展/游戏开发/Luanch.md",
+                "file": "职业工作/冰风网络/Lua 原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,19 +109,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 111
+    "width": 111,
+    "collapsed": true
   },
-  "active": "39278dd7f972085b",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "fe0a2536d04de86f",
   "lastOpenFiles": [
-    "职业发展/专业能力/代码调试/C++调试.md",
-    "职业发展/游戏开发/UE5 编译.md",
-    "职业工作/冰风网络/环境搭建.md",
-    "职业工作/冰风网络/Game/Client/UI搭建.md",
+    "职业技能/游戏开发/UE4笔记/UE4关系图.md",
+    "职业技能/游戏开发/UE4笔记/UE4 生命周期.md",
     "职业工作/冰风网络/Game/Client/Main.md",
-    "职业工作/冰风网络/Game/Client/Entity.md",
-    "职业发展/专业能力/计算机图形学/DirectX Game.md",
-    "职业发展/专业能力/计算机图形学/DirectX12.md",
-    "职业发展/专业能力/计算机图形学/DirectX122.md",
-    "网络资源/Youtube/DirectX.md"
+    "职业发展/游戏开发/Luanch.md",
+    "职业工作/冰风网络/Lua 原理.md",
+    "考试/求职/准备.md",
+    "职业工作/冰风网络/环境搭建.md",
+    "考试/求职/大纲.md",
+    "职业技能/游戏开发/UE4笔记/UE4 配置.md",
+    "职业技能/游戏开发/UE4笔记/蓝图解析.md"
   ]
 }
