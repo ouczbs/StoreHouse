@@ -75,3 +75,12 @@ public:
 const UHttpManagerSetting* Config = GetDefault<UHttpManagerSetting>();
 ```
 
+# 踩坑
+
+## 自动UClass 无效
+
+目标类在其他模块，还未加载，创建CDO时机过早
+
+## 手动修改CDO的值
+
+GetMutableDefault

@@ -1,3 +1,5 @@
+
+
 # Lua 栈
 
 ```c++
@@ -32,6 +34,40 @@ lua_pushstring(L, “mystr”);   // 压入一个字符串
     
      "我只管我的世界"这句话体现了lua和c/c++作为两个不同系统的分界, c/c++中的值, lua是不知道的, lua只负责它的世界
 
+### Push
+
+```c++
+void lua_pushnumber (lua_State *L, lua_Number n) ;
+void lua_pushboolean (lua_State *L, int b ;
+void lua_pushnil (lua_State *L);
+                      
+Stack[L->top-1] = value;
+L->top++;    
+```
+
+### ToValue
+
+0-nil，1-bool，2-lightuserdata，3-number，4-string，5-table，6-function，7-userdata，8-thread。-1代表啥也没有（不是nil）
+
+```c++
+lua_tostring(L, i);
+lua_toboolean(L, i);
+lua_tonumber(L, i);
+lua_typename(L, t);
+case Stack[i].tt
+return union.xx
+```
+
+### Pop
+
+```c++
+lua_gettable()
+```
+
+
+
+
+
 ```c++
 int   lua_gettop (lua_State *L);            //返回栈顶索引（即栈长度）  
 void  lua_settop (lua_State *L, int idx);   //                
@@ -43,7 +79,7 @@ void  lua_replace (lua_State *L, int idx);  //弹出栈顶元素，并替换索�
 
 
 
-# Push Lua 对象
+# Lua 对象
 
 ## 数值、布尔
 
@@ -55,9 +91,9 @@ void  lua_replace (lua_State *L, int idx);  //弹出栈顶元素，并替换索�
 ### 源码
 
 ```c++
-LUA_API void lua_pushnumber (lua_State *L, lua_Number n) {...}
-LUA_API void lua_pushboolean (lua_State *L, int b {...}
-LUA_API void lua_pushnil (lua_State *L) {...}
+void lua_pushnumber (lua_State *L, lua_Number n) ;
+void lua_pushboolean (lua_State *L, int b ;
+void lua_pushnil (lua_State *L);
 ```
 
 
@@ -121,7 +157,11 @@ static TString *internshrstr (lua_State *L, const char *str, size_t l) {
 
 ## 表
 
+### 流程
 
+
+
+### 源码
 
 ## 闭包
 

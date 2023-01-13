@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "职业工作/冰风网络/Lua 原理.md",
+                "file": "职业技能/hosts.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lua",
+                "query": "hosts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "职业工作/冰风网络/Lua 原理.md",
+                "file": "职业技能/hosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,18 +112,24 @@
     "width": 111,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
   },
   "active": "fe0a2536d04de86f",
   "lastOpenFiles": [
+    "职业工作/冰风网络/环境搭建.md",
+    "职业工作/冰风网络/Lua 原理.md",
     "职业技能/游戏开发/UE4笔记/UE4关系图.md",
     "职业技能/游戏开发/UE4笔记/UE4 生命周期.md",
     "职业工作/冰风网络/Game/Client/Main.md",
     "职业发展/游戏开发/Luanch.md",
-    "职业工作/冰风网络/Lua 原理.md",
     "考试/求职/准备.md",
-    "职业工作/冰风网络/环境搭建.md",
     "考试/求职/大纲.md",
     "职业技能/游戏开发/UE4笔记/UE4 配置.md",
     "职业技能/游戏开发/UE4笔记/蓝图解析.md"
