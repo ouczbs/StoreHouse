@@ -1623,12 +1623,22 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "Day Planners/Day Planner-20230119.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "职业/职业发展/专业能力/计算机图形学/Directx Guide.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 58,
-      "Create": 80,
+      "Refactor": 60,
+      "Create": 82,
       "Link": 18,
       "Expand": 87
     }
@@ -1652,7 +1662,7 @@
       "14": 19,
       "15": 16,
       "16": 17,
-      "17": 5,
+      "17": 9,
       "18": 7,
       "19": 8,
       "20": 6,
@@ -1666,7 +1676,7 @@
       "Mon": 23,
       "Tue": 51,
       "Wed": 68,
-      "Thu": 31,
+      "Thu": 35,
       "Fri": 50,
       "Sat": 0,
       "Sun": 20
@@ -1728,6 +1738,8 @@
         "<a class=\"internal-link\" href=\"考试/面向对象/C++.md\"> C++ </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"职业/职业发展/专业能力/计算机图形学/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20230119.md\"> Day Planner-20230119 </a>",
         "<a class=\"internal-link\" href=\"职业发展/职业要求/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"职业发展/沟通/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220831.md\"> Day Planner-20220831 </a>",
@@ -1776,9 +1788,7 @@
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220529.md\"> Day Planner-20220529 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220603.md\"> Day Planner-20220603 </a>",
         "<a class=\"internal-link\" href=\"考试/大物/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"考试/大物/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"考试/大物/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220604.md\"> Day Planner-20220604 </a>"
+        "<a class=\"internal-link\" href=\"考试/大物/未命名.md\"> 未命名 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"日常积累/考试/答辩.md\"> 答辩 </a>",
@@ -1823,7 +1833,9 @@
         "<a class=\"internal-link\" href=\"求职/大纲.md\"> 大纲 </a>",
         "<a class=\"internal-link\" href=\"职业技能/图像/颜色.md\"> 颜色 </a>",
         "<a class=\"internal-link\" href=\"职业发展/沟通管理/工作沟通.md\"> 工作沟通 </a>",
-        "<a class=\"internal-link\" href=\"职业发展/职业要求/游戏主程.md\"> 游戏主程 </a>"
+        "<a class=\"internal-link\" href=\"职业发展/职业要求/游戏主程.md\"> 游戏主程 </a>",
+        "<a class=\"internal-link\" href=\"职业/职业发展/专业能力/计算机图形学/Directx.md\"> Directx </a>",
+        "<a class=\"internal-link\" href=\"职业/职业发展/专业能力/计算机图形学/Directx Guide.md\"> Directx Guide </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"专业积累/编译原理/yacc.md\"> yacc </a>",
